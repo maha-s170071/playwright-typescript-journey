@@ -1,0 +1,40 @@
+# Day 3 - Arrays, Objects & Utility Functions
+
+## Topics Covered
+- Arrays
+- Objects
+- Array of Objects
+- Loops
+- Conditions
+- Utility Functions
+
+---
+
+# Mini Project
+Student Marks Utility App
+
+---
+
+# Features Implemented
+- Calculate total marks
+- Calculate average marks
+- Find topper student
+- Find failed students
+
+---
+
+# Concepts Practiced
+- Array traversal
+- Object property access
+- for loops
+- Conditional statements
+- Reusable utility functions
+
+---
+
+# Automation Relevance
+These concepts are important for:
+- Playwright test data handling
+- API response validation
+- Dynamic reporting
+- Framework utility creation
